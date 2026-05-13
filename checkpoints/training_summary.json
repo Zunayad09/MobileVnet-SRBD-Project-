@@ -1,0 +1,18 @@
+{
+  "total_epochs": 500,
+  "best_val_dice": 0.9019602007336087,
+  "best_epoch": 40,
+  "final_val_dice": 0.8994271059830984,
+  "final_val_iou": 0.8185308807426028,
+  "train_samples": 1307,
+  "val_samples": 283,
+  "test_samples": 285,
+  "image_size": [
+    256,
+    256
+  ],
+  "batch_size": 16,
+  "encoder": "mobilenet_v2",
+  "device": "cuda",
+  "training_time_hours": 0.3
+}
